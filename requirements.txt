@@ -1,0 +1,13 @@
+numpy 
+pandas
+scikit-learn
+pymongo
+pymongo[srv]==3.12
+certifi
+python-dotenv
+mlflow==2.14.3
+dagshub==0.3.32
+protobuf==4.25.3
+streamlit
+python-dotenv
+#-e .

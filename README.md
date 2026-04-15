@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Naveen Kumar  
+# 👋 Hi, Yeswanth surya raj
 # 🔐 Network Security Prediction using Machine Learning
 
 This project is a **Streamlit web application** that predicts **network security threats** using a trained ML model.  
